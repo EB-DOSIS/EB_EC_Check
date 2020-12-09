@@ -1,0 +1,6 @@
+Q:\ESAPI\Projects\EB_EC_Check\Projects\EB_EC_Check\obj\x64\Debug\EB_EC_Check.csprojAssemblyReference.cache
+Q:\ESAPI\Projects\EB_EC_Check\Projects\EB_EC_Check\obj\x64\Debug\EB_EC_Check.csproj.CoreCompileInputs.cache
+Q:\ESAPI\Projects\EB_EC_Check\plugins\EB_EC_Check.esapi.dll
+Q:\ESAPI\Projects\EB_EC_Check\plugins\EB_EC_Check.esapi.pdb
+Q:\ESAPI\Projects\EB_EC_Check\Projects\EB_EC_Check\obj\x64\Debug\EB_EC_Check.esapi.dll
+Q:\ESAPI\Projects\EB_EC_Check\Projects\EB_EC_Check\obj\x64\Debug\EB_EC_Check.esapi.pdb
